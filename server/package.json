@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-server",
+  "version": "1.0.0",
+  "description": "Api endpoints to interact with web3.",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/index.ts",
+    "build": "tsc",
+    "serve": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.5",
+    "@types/web3": "^1.2.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "web3": "^1.6.1"
+  }
+}
