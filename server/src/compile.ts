@@ -7,8 +7,8 @@ const contractSource = fs.readFileSync(contractPath, { encoding: 'utf8' });
 
 const compiled = solc.compile(contractSource, 1);
 
-console.log(contractPath);
-console.log(contractSource);
-console.log(compiled);
+// console.log(contractPath);
+// console.log(contractSource);
+// console.log(compiled);
 
 export default compiled.contracts[':Bank'];
