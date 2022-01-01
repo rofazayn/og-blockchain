@@ -1,0 +1,1 @@
+cd ./nodes && geth --datadir signer-1 --networkid 49945 --bootnodes "enode://b1d7ccf54ab550969d23fc5ba98db89d645f41491daa1be0a7546aeb80fc03b7c21dee9e478a515686962b6a26d1ad7dd0d6fa7a4ded7e58929633a40475c3f8@127.0.0.1:30300" --port 30401 --unlock 0x1AE8247c63c17bd98e89846dC60D149e66b66afA --password password.txt --mine
