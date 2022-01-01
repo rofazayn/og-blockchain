@@ -1,0 +1,12 @@
+--- signer accounts ---
+0x1AE8247c63c17bd98e89846dC60D149e66b66afA
+
+--- faucet accounts ---
+0xA46F684EF092Fa3337D467E5535E67ece8ac91DF
+
+--- member accounts ---
+0xC768172B915D94D66EF0F645f3fF6be64eBBBD02
+0xc26316c46aD53cbE2EE23d63A2B4aCA57A23205A
+
+--- metamask accounts ---
+0x8D13B013D5C2b5EA6fa8eac8C352D7b87d22cF0f
