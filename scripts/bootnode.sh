@@ -1,0 +1,1 @@
+cd ./nodes && bootnode -nodekey bootnode/booty.key -nat none:127.0.0.1 -addr ":30300" -verbosity 5
